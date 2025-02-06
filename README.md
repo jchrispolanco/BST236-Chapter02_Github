@@ -12,3 +12,7 @@ This section is dedicated to testing how to resolve conflicts in Git. Conflicts 
 - Add more changes from upstream
 
 By practicing conflict resolution, you can ensure smooth collaboration in your projects.
+
+## Add my_feature branch
+
+TEST TEST TEST
