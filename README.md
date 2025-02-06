@@ -15,4 +15,5 @@ By practicing conflict resolution, you can ensure smooth collaboration in your p
 
 ## Add my_feature branch
 
-TEST TEST TEST
+- TEST TEST TEST
+- Secon TEST TEST TEST
